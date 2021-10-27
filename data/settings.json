@@ -10,14 +10,14 @@
       ]
     },
     {
-      "section": "Setup",
+      "section": "Concepts and Illustrations",
       "topics": [
         {
-          "title": "Theme configuration",
+          "title": "Concepts",
           "slug": "theme-configuration"
         },
         {
-          "title": "Forestry CMS",
+          "title": "Illustrations",
           "slug": "forestry-cms"
         }
       ]
