@@ -17,7 +17,7 @@ function addStyleResource (rule) {
 
 module.exports = {
   siteName: 'Child Protection Concepts in Plain Language',
-  siteUrl: 'https://jamdocs.samuelhorn.com',
+  siteUrl: 'https://hopeful-brattain-880c7a.netlify.app/',
   templates: {
     Doc: '/:slug',
   },
