@@ -16,7 +16,7 @@ function addStyleResource (rule) {
 }
 
 module.exports = {
-  siteName: 'Plain, Illustrated, Lean, Lexicon',
+  siteName: 'Child Protection Concepts in Plain Language',
   siteUrl: 'https://hopeful-brattain-880c7a.netlify.app/',
   templates: {
     Doc: '/:slug',

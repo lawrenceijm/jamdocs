@@ -29,7 +29,7 @@ export default {
   },
   data() {
     return {
-      description: ' | For: Child Protection Concepts'
+      description: ' A Free and Accessible Lexicon'
     }
   },
   metaInfo() {
