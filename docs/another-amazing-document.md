@@ -5,3 +5,5 @@ slug: illustrations
 
 ---
 This is yet another amazing document!
+
+A document of superb power. 
