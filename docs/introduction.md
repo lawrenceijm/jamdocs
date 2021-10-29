@@ -6,4 +6,4 @@ slug: introduction
 ---
 ## A Plain Language Lexicon of Child Protection Concepts
 
-We believe that important concepts in child protection should be easy to understand. This site brings important ideas to life through simple definitions, metaphors, and illustrations.
+This site brings important ideas to life through simple definitions, metaphors, and illustrations.
